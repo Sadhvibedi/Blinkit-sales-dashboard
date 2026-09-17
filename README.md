@@ -4,6 +4,8 @@ An interactive Power BI dashboard analyzing retail sales performance across
 outlet types, locations, and product categories — built on grocery/FMCG
 sales data styled around Blinkit.
 
+![Dashboard overview](dashboard-overview.png)
+
 ## What This Dashboard Shows
 
 **Key metrics**
